@@ -1,0 +1,17 @@
+body{
+background-color: greenyellow;
+
+}
+
+h1, h2,p, label, legend{
+	color: blue;
+}
+
+
+h2{
+	font-weight: normal;
+}
+
+img{
+	height: 1000px;
+}
